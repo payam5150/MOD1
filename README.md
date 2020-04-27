@@ -12,7 +12,7 @@ Date: 04-27-20</b>
 
 <b>Data Analytics Team -</b> The DoodleBug 
 
-<b>Project Goal</b> - Looking at top 50 most grossed movies of all time and coming up with analytics on the most popular genre, maturity rating and top living directors Microsoft should invest on.
+<b>Project Goal</b> - Looking at the top 50 most grossed movies of all time along with the top 20 living best directors and coming up with analytics on the most popular genre, maturity rating and which directors Microsoft should invest on.
 
 <b>Data Source:<b> 
 
