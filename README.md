@@ -1,12 +1,12 @@
 <b><h1 style="color:red;font-size:40px;">Module 1 - Movie Project</h1>
 
-<p style="color:blue;font-size:18px;">Consultant: Payam Abbasi
+Consultant: Payam Abbasi
 
 Team: Doodlebug
 
 Outside Consultants: Shawn A. & Ali A.
 
-Date: 04-27-20</b></p>
+Date: 04-27-20</b>
 
 <b>Project Statement -</b> Microsoft is interested in getting into the world of film production and has hired us to present to them a better understanding of the movie industry. They need team "Doodlebug" to be in charge of data analytics by creating a presentation that explores what type of films are currently doing the best at the box office. 
 
