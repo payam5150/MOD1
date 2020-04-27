@@ -1,4 +1,4 @@
-<b>Module 1 - Movie Project
+<b><center>Module 1 - Movie Project</center>
 
 Consultant: Payam Abbasi
 
