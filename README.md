@@ -4,7 +4,7 @@ Consultant: Payam Abbasi
 
 Team: Doodlebug
 
-Outside Consultants: Shawn A., Ali A.
+Outside Consultants: Shawn A. & Ali A.
 
 Date: 04-27-20</b>
 
