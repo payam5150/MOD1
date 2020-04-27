@@ -1,4 +1,4 @@
-<b>Module 1 - Movie Project</b>
+<b>Module 1 - Movie Project
 
 Consultant: Payam Abbasi
 
@@ -6,7 +6,7 @@ Team: Doodlebug
 
 Outside Consultants: Shawn A., Ali A.
 
-Date: 04-27-20
+Date: 04-27-20</b>
 
 Project Statement - Microsoft is interested in getting into the world of film production and has hired us to present to them a better understanding of the movie industry. They need team "Doodlebug" to be in charge of data analytics by creating a presentation that explores what type of films are currently doing the best at the box office. 
 
