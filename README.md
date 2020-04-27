@@ -18,7 +18,7 @@ Date: 04-27-20</b>
 
 <a href="https://www.imdb.com/list/ls000021718/">The 50 Highest-Grossing Movies Of All Time</a>
 
-https://www.imdb.com/list/ls000026027/
+<a href="https://www.imdb.com/list/ls000026027/">Top 20 Best Directors Alive</a>
 
 <b>Work Environment - </b>Work was done in Python utilizing jupyter notebook. Data was scraped from IMBD. 
 We used <b>matplotlib & seaborn</b> to illustrate our results.
