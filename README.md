@@ -10,7 +10,7 @@ Date: 04-27-20</b>
 
 <b>Project Statement -</b> Microsoft is interested in getting into the world of film production and has hired us to present to them a better understanding of the movie industry. They need team "Doodlebug" to be in charge of data analytics by creating a presentation that explores what type of films are currently doing the best at the box office. 
 
-<b>Project Goal</b> - Looking at the top 50 most grossed movies of all time along with the top 20 living best directors and coming up with analytics on the most popular genre, maturity rating and which directors Microsoft should invest on.
+<b>Project Goal</b> - Looking at the top 50 most grossed movies of all time along with the top 20 living best directors and coming up with analytics on the most popular genre, maturity rating and which movie directors Microsoft should invest on.
 
 <b>Data Source:<b> 
 
