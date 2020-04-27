@@ -14,4 +14,5 @@ Data Source:
 https://www.imdb.com/list/ls000021718/
 https://www.imdb.com/list/ls000026027/
 
-Work Environment - Work was done in Python utilizing jupyter notebook. Data was scraped from IMBD 
+Work Environment - Work was done in Python utilizing jupyter notebook. Data was scraped from IMBD. 
+We used matplotlib & seaborn to illustrate our results.
