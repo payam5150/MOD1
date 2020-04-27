@@ -20,5 +20,5 @@ Date: 04-27-20</b>
 
 <a href="https://www.imdb.com/list/ls000026027/">Top 20 Best Directors Alive</a>
 
-<b><p style="color:red;">Work was done in Python utilizing jupyter notebook. Data was scraped from IMBD. 
-We used <b>matplotlib & seaborn</b></p>
+<b><p style="color:red;">Work was done in Python utilizing jupyter notebook. Data was scraped from IMBD.</p> 
+We used <b>matplotlib & seaborn</b>
