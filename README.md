@@ -20,3 +20,13 @@ Date: 04-27-20</b>
 
 <b>Work was done in Python, utilizing jupyter notebook. Data was scraped from IMDB.
 We used <b>matplotlib & seaborn to illustrate our results.</b>
+  
+  Please open the jupyter notebooks in the following order: 
+  
+  <b>001 - Mod1 - FINAL - 4-27-20
+  
+  002 - Mod1 - Graphics - 4-27-20
+  
+  003 - Mod1 - Top Directors - 4-27-20</b>
+  
+  
