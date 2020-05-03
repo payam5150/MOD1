@@ -12,6 +12,8 @@ Date: 04-27-20</b>
 
 <b>Project Goal</b> - Looking at the top 50 most grossed movies of all time along with the top 20 living best directors and coming up with analytics on the most popular genre, maturity rating and which movie directors Microsoft should invest on.
 
+<b>Data Value</b> - Better understanding of the film industry and Profitability
+
 <b>Data Source:<b> 
 
 <a href="https://www.imdb.com/list/ls000021718/">The 50 Highest-Grossing Movies Of All Time</a>
